@@ -1,0 +1,17 @@
+各数据库内网主机名详情：
+正式环境内网连接地址：
+OA主库：192.168.9.107/imc.oa
+OA读库：192.168.9.105/imc.oa
+销售主库：192.168.9.101/imc.oa.sale
+客服主库：192.168.9.101/imc.oa.cust
+日志主库：192.168.9.101/imc.oa.log
+sku主库：192.168.9.109/imcoa.sale.sku
+历史库：192.168.9.243/histoa 
+
+测试环境内网连接地址:192.168.9.243/imctest
+
+测试
+IMCTEST	IMC_USER@//192.168.9.243:1521/imctest     PASSWORD=c2PKpX9ht6z*jlWl;USER ID=IMC_USER
+
+正式
+IMCOA	        imc_dev@//192.168.9.105:1521/imc.oa    PASSWORD=DV$WzxfCxq#g*Nj8;USER ID=imc_dev

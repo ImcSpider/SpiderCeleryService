@@ -1,0 +1,2 @@
+主要cookie产生api：https://seller.vn.shopee.cn/api/v2/marketing/meta/?SPC_CDS=47a8b50b-37aa-4015-899e-fa7cf4e359cc&SPC_CDS_VER=2 
+Authourization产生api：https://seller.vn.shopee.cn/webchat/api/v1/sessions?_v=3.6.0 

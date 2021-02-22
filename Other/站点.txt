@@ -1,0 +1,11 @@
+英国：	co.uk
+意大利: 	it
+印度 : 	in
+西班牙:	es
+法国	fr
+荷兰	nl
+德国	de
+美国	com
+日本	jp
+墨西哥	com.mx
+加拿大	ca
