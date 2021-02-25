@@ -1,9 +1,0 @@
-wxPython
-selenium
-pandas
-suds-py3
-psutil
-shutil
-queue
-configparser
-msiexec /i "xxxxx.msi" /qr
